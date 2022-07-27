@@ -1,0 +1,12 @@
+.box{
+    background-color: aqua;
+    min-height: 100px;
+}
+.box1{
+    background-color: cornflowerblue;
+    min-height: 100px;
+}
+.box2{
+    background-color: lightslategray;
+    min-height: 100px;
+}
